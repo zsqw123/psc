@@ -1,6 +1,3 @@
-???
-
-Then you can use everything in profile-summary-card-output folder
 | :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
 | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
@@ -12,9 +9,9 @@ Then you can use everything in profile-summary-card-output folder
 | :warning: | Don't forget to modify the image path (The correct path is in `profile-summary-card-output` folder). |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
-[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](./profile-summary-card-output/github/0-profile-details.svg)
+![](./profile-summary-card-output/github/1-repos-per-language.svg)
+![](./profile-summary-card-output/github/2-most-commit-language.svg)
+![](./profile-summary-card-output/github/3-stats.svg)
 
 [More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
